@@ -12,8 +12,8 @@ Cette application Android simple permet d'incrémenter un compteur avec un bouto
 3. **Bouton Reset** : Lorsque le bouton "Reset" est cliqué, le compteur est remis à zéro.
 
 ## Screen Video
-[![Vidéo de démonstration]]([video1.webm](https://github.com/user-attachments/assets/a60bcd02-e32b-48e4-90e2-87621d7b3b23)
-)
+[![Vidéo de démonstration]](https://github.com/user-attachments/assets/a60bcd02-e32b-48e4-90e2-87621d7b3b23)
+
 
 ## Explication du code
 
