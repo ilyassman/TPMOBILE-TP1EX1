@@ -12,7 +12,7 @@ Cette application Android simple permet d'incrémenter un compteur avec un bouto
 3. **Bouton Reset** : Lorsque le bouton "Reset" est cliqué, le compteur est remis à zéro.
 
 ## Screen Video
-![Vidéo de démonstration de l'application](https://github.com/ilyassman/TPMOBILE-TP1Ex1/blob/master/video1.webm)
+[![Vidéo de démonstration](chemin/vers/capture.png)](https://github.com/ilyassman/TPMOBILE-TP1Ex1/blob/master/video1.webm)
 
 ## Explication du code
 
