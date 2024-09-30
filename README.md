@@ -11,8 +11,8 @@ Cette application Android simple permet d'incrémenter un compteur avec un bouto
 2. **Bouton Count** : Chaque fois que le bouton "Count" est cliqué, la valeur du compteur dans le `TextView` est incrémentée de 1.
 3. **Bouton Reset** : Lorsque le bouton "Reset" est cliqué, le compteur est remis à zéro.
 
-## Captures d'écran
-![Capture d'écran de l'application](chemin/vers/capture.png)
+## Screen Video
+![Vidéo de démonstration de l'application](chemin/vers/video.mp4)
 
 ## Explication du code
 
@@ -49,4 +49,3 @@ Ce fichier définit la disposition de l'application :
 
 - Android SDK 21 ou supérieur.
 - Java 8 ou supérieur.
-
